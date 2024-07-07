@@ -1,0 +1,11 @@
+1 Avatar 10:20 Fantasia
+2 REC 11:30 Terror
+3 Angry_Birds 11:00 Animación
+4 Elementos 12:30 Animacion
+5 Sherk 9:30 Fantasia
+6 IT 13:00 Terror
+7 El_Aro 14:30 Terror
+8 Garfield 15:00 Animación
+9 Las_50_sombras_de_grey 16:00 Fantasia
+10 Sing 17:30 Animación
+
